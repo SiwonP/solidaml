@@ -1,0 +1,4 @@
+(executable
+ (public_name solidaml)
+ (name main)
+ (libraries solidaml unix))

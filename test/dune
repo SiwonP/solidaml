@@ -1,0 +1,4 @@
+(test
+ (name test_solidaml)
+ (deps (glob_files *))
+ (libraries solidaml))
